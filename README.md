@@ -8,7 +8,8 @@
 
 |  🔥  | Games 🕹                                                                                                                 | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | Project                             | [Click Here](https://jkvishu.github.io/Login-pages/1.Project/index.html)
+| 01  | Simon's Game                            | [Click Here](https://jkvishu.github.io/JavaScript-Games/Simon's%20Game/index.html)
+| 02  | The Dicee Game                            | [Click Here](https://jkvishu.github.io/JavaScript-Games/The%20Dicee%20Game/index.html)
 
 </section>
 
