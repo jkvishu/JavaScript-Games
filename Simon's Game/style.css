@@ -1,0 +1,46 @@
+body{
+  background-color: #081E38;
+  text-align: center;
+}
+h1{
+  color: #FAEEC7;
+  font-family: 'Silkscreen', cursive;
+  font-weight: 700;
+  font-size: 4rem;
+  padding: 50px 0;
+}
+footer{
+  font-family: fantasy;
+  font-size: 1.5rem;
+  color:white;
+  margin-top: 40px;
+}
+.green{
+  background-color: #0A8004;
+}
+.red{
+  background-color: #FF0002;
+}
+.yellow{
+  background-color: #D2D206;
+}
+.blue{
+  background-color: #2401D8;
+}
+.jumbo{
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+.gameover{
+  background-color: red;
+  opacity: 0.8;
+}
+.btn1{
+  border: 10px solid;
+  border-color: black;
+  height:200px;
+  width:200px;
+  margin:30px;
+  border-radius: 20%;
+  display: inline-block;
+}
