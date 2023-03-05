@@ -10,6 +10,7 @@
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | Simon's Game                            | [Click Here](https://jkvishu.github.io/JavaScript-Games/Simon's%20Game/index.html)
 | 02  | The Dicee Game                            | [Click Here](https://jkvishu.github.io/JavaScript-Games/The%20Dicee%20Game/index.html)
+| 03  | Snake-Game                           | [Click Here](https://jkvishu.github.io/JavaScript-Games/Snake-Game/index.html)
 
 </section>
 
