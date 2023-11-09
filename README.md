@@ -1,6 +1,6 @@
 # <h1 align="center"> JavaScript-Games  🎮 </h1>
 > ### <strong>Welcome to the ultimate playground of interactive entertainment! Introducing "JavaScript Game's" - a repository that's packed with thrilling games built entirely in JavaScript</strong>    
- 
+  
 
 <section>
 
